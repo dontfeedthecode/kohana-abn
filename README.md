@@ -8,4 +8,4 @@ First you must enable the kohana-abn module in your application/bootstrap.php fi
 
 ## Usage
 
-Once the module is enabled you can simply visit yoursite.com/abn/[abn_number] (minus the brackets), it will return the business entity information (if available) in JSON format.
+Once the module is enabled you can simply visit yoursite.com/abn/abn_number, it will return the business entity information (if available) in JSON format.
