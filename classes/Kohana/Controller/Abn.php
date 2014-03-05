@@ -60,7 +60,7 @@ class Kohana_Controller_Abn extends Controller {
 		if($abn = $this->request->param('abn')) {
 			
 			// Load nusoap
-			require Kohana::find_file('vendor', 'PHPSample/lib/nusoap');
+			require Kohana::find_file('vendor', 'nusoap-0.9.5/lib/nusoap');
 			
 			// Set up ABR client
 			$this->_client = new soapclient(
