@@ -4,8 +4,8 @@ This beta module takes advantage of ABR Web Services (http://abr.business.gov.au
 
 ## Configuration
 
-First you must enable the kohana-abn module in your application/bootstrap.php file, finally update the $guid property in the Abn.php controller.
+First you must enable the kohana-abn module in your `application/bootstrap.php` file, finally update the $guid property in the Abn.php controller.
 
 ## Usage
 
-Once the module is enabled you can simply visit yoursite.com/abn/abn_number, it will return the business entity information (if available) in JSON format.
+Once the module is enabled you can simply visit `yoursite.com/abn/abn_number`, it will return the business entity information (if available) in JSON format.
