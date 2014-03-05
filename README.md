@@ -7,7 +7,7 @@ This module uses [NuSOAP] (http://sourceforge.net/projects/nusoap/) to connect t
 
 ## Configuration
 
-First you must enable the kohana-abn module in your `application/bootstrap.php` file, finally update the `$guid` property in `classes/Controller/Abn.php`.
+First you must enable the kohana-abn module in your `application/bootstrap.php` file, finally update the `$guid` property in `modules/kohana-abn/classes/Controller/Abn.php`.
 
 ## Usage
 
