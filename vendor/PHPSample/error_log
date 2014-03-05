@@ -1,0 +1,4 @@
+[04-Mar-2014 05:54:27 Europe/Helsinki] PHP Warning:  require_once(lib/nusoap.php): failed to open stream: No such file or directory in /home/bizeek/public_html/PHPSample/abnlookup.php on line 20
+[04-Mar-2014 05:54:27 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required 'lib/nusoap.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bizeek/public_html/PHPSample/abnlookup.php on line 20
+[04-Mar-2014 05:56:24 Europe/Helsinki] PHP Warning:  require_once(lib/nusoap.php): failed to open stream: No such file or directory in /home/bizeek/public_html/PHPSample/abnlookup.php on line 20
+[04-Mar-2014 05:56:24 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required 'lib/nusoap.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bizeek/public_html/PHPSample/abnlookup.php on line 20
